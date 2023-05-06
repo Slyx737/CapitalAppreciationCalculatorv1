@@ -31,4 +31,4 @@ future_returns = calculate_future_returns(num_shares, avg_cost, future_price)
 print(f"Future returns for {num_shares} shares with average cost ${avg_cost} and future price ${future_price}: ${future_returns:.2f}")
 
 # Disclaimer
-The Capital Appreciation Calculator is intended for educational and informational purposes only. It is not intended to provide investment advice or recommendations. Investors should conduct their own research and consult with a financial advisor before making investment decisions.
+The Capital Appreciation Calculator is intended for educational and informational purposes only. It is not intended to provide investment advice or recommendations. Investors should always conduct their own research and consult with a financial advisor before making any investment decisions.
